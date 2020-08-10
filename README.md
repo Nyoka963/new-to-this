@@ -2,4 +2,4 @@
 
 ## Editing the trial
 
-iIts a markdown file in this repository.
+Its a markdown file in this repository.
